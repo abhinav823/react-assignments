@@ -1,0 +1,127 @@
+
+.main_container1{
+    height: 15vh;
+    background-color: lavenderblush;
+    display: flex;
+    flex-direction: row;
+
+}
+.head{
+    width: 20%;
+    margin-left: 48%;
+    text-align: top;
+}
+.arrow{
+    color: rgb(163, 158, 158);
+    margin-left: 15px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.btn{
+    width: 20vh;
+    margin-left: 23%;
+    padding-top: 12px;
+}
+button{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    width: 15vh;
+    height: 6vh;
+    margin-top: 3vh;
+}
+.customer-info{
+
+    height: 20vh;
+    width: 98%;
+    border: 2px solid rgb(240, 238, 238);
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.table{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-collapse: separate;
+    font-style: sans-serif;
+}
+.table tr{
+    display: flex;
+    flex-direction: row;
+    border-collapse: separate;
+    margin-top: 13px;
+}
+.table td{
+    margin-left: 5px;
+}
+.order-info{
+    height: 20vh;
+    width: 98%;
+    border: 2px solid rgb(240, 238, 238);
+    margin-left: 10px;
+    margin-top: 25px;
+    background-color: rgb(225, 223, 223);
+}
+.table1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 27px;
+}
+.table1 tr{
+    margin-left: 25px;
+    width: 32%;
+}
+.table1 td{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.row th{
+    padding-left: 15px;
+}
+.product-list{
+    height: 25vh;
+    width: 98%;
+    border: 2px solid rgb(240, 238, 238);
+    margin-left: 10px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.checkbox{
+    width: 5%;
+    height: 80%;
+    margin-left: 20px;
+
+}
+.checkbox input{
+    width: 45%;
+    height: 25%;
+    margin-top: 50px;
+    outline: 3px solid yellow;
+
+}
+.profile_img{
+    width: 28vh;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.profile_img img{
+    width: 20vh;
+    height: 20vh;
+}
+.content{
+    width: 140vh;
+    margin-left: -2%;
+}
+.content p{
+    color: rgb(145, 142, 142);
+    margin-top: 5px;
+}
+.arrow1{
+    width: 15vh;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(163, 158, 158);
+    padding-top: 35px;
+    padding-left: 60px;
+} 
